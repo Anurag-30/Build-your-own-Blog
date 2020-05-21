@@ -24,7 +24,7 @@ open ~/.bash_profile file and add the following variables: <br />
 
 `export EMAIL_USER="Your Email"` <br />
 `export EMAIL_PASS="Password for your email"` <br />
-`export SECRET_KEY="770dc8cc0080d058e4edfae57c7e11c1"` <br />
+`export SECRET_KEY="Your Secret Key"` <br />
 `export SQLALCHEMY_DATABASE_URI="sqlite:///site.db"` <br />
 
 The EMAIL_USER and EMAIL_PASS are not mandatory but the forgot password featute won't be working without them
